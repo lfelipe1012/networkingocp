@@ -5,7 +5,7 @@ metadata:
   labels:
     app: todonodejs
     name: frontend
-  namespace: network-sdn
+  namespace: network-sdn-<nombre>
 spec:
   replicas: 1
   selector:
